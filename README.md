@@ -1,20 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 👋 Welcome to My GitHub Profile!
 
-# Run and deploy your AI Studio app
+Hi, I'm **ADN1SK**. Welcome to my corner of GitHub, where I build futuristic ideas, side projects, and contribute to open source. 🚀
 
-This contains everything you need to run your app locally.
+## 🏫 About Me
 
-View your app in AI Studio: https://ai.studio/apps/35f99678-e2bd-499c-a2cd-3d1c0b61d204
+- 🎓 **4th year Computer Science student**
+- 💻 **Fullstack Developer** with passion for web apps and tech innovation
 
-## Run Locally
+## 🏗️ Featured Project
 
-**Prerequisites:**  Node.js
+### [FUTURISTIC-3D-GYM](https://github.com/ADN1SK/FUTURISTIC-3D-GYM)
+A cutting-edge personal project leveraging **TypeScript**, **CSS**, and **HTML** for immersive 3D web experiences.
 
+- **TypeScript:** 92.5%
+- **CSS:** 5.3%
+- **HTML:** 2.2%
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+> _"Side project"_ exploring creative coding, interface design, and web technologies.
+
+## 🌟 Favorite Projects & Achievements
+
+- [AI Tutor](https://github.com/ADN1SK/ai-tutor) — My favourite project, combining AI and education for an interactive learning experience
+
+## 📈 My Focus
+
+- Innovative web applications
+- Fullstack development
+- Creative coding & 3D visualization
+
+## 🌱 What I'm Working On
+
+- Open source contributions
+- Learning new frameworks
+- Prototyping future-ready web experiences
+
+---
+
+## 🌐 Let's Connect
+
+- **X (Twitter):** [@ADN1SK](https://twitter.com/ADN1SK)
+
+---
+
+Feel free to reach out or check out my projects!  
+Want your README even more personalized? Let me know your top skills, more favorite projects, or other socials/websites you’d like included.

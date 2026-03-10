@@ -11,6 +11,8 @@ Hi, I'm **ADN1SK**. Welcome to my corner of GitHub, where I build futuristic ide
 
 ### [FUTURISTIC-3D-GYM](https://github.com/ADN1SK/FUTURISTIC-3D-GYM)
 A cutting-edge personal project leveraging **TypeScript**, **CSS**, and **HTML** for immersive 3D web experiences.
+##screenshot:
+<img width="966" height="558" alt="image" src="https://github.com/user-attachments/assets/9f9ec406-9caf-4863-abb0-667ca1744088" />
 
 - **TypeScript:** 92.5%
 - **CSS:** 5.3%

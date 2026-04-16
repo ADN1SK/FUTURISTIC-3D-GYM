@@ -48,3 +48,4 @@ A cutting-edge personal project leveraging **TypeScript**, **CSS**, and **HTML**
 __Feel free to reach out or check out my projects!__
 Want your README even more personalized? Let me know your top skills, more favorite projects, or other socials/websites you’d like included.
 
+
